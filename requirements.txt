@@ -5,6 +5,6 @@ seaborn
 scikit-learn
 prophet
 plotly
-streamlit
+streamlit==1.32.0
 statsmodels
 altair==4.2.2
